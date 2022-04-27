@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wee_WageCalculator</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="total_hours_worked">Total Hours Worked</string>
+    <string name="total_wage_received">Total Wage Received</string>
+    <string name="total_regular_wage">Total Regular Wage</string>
+    <string name="total_overtime_wage">Total Overtime Wage</string>
+    <string name="hours_rendered">Hours Rendered</string>
+    <string name="zero">0</string>
+</resources>
